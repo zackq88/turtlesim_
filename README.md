@@ -1,4 +1,7 @@
-# turtlesim_goforward_rotate_gotogoal
+# turtlesim_
+
+for now there is 3 tasks : moving linearly ; rotation ; go to goal.
+
 pkg:turtlesim_cleaner 
 
 node1:move.py
