@@ -1,6 +1,6 @@
 # turtlesim_
 
-for now there is 4 tasks : moving linearly ; rotation ; go to goal ; grid cleaning application 
+for now , there is 4 tasks : moving linearly ; rotating ; go to goal ; grid cleaning application 
 
 pkg:turtlesim_cleaner 
 
