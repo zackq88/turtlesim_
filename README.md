@@ -16,6 +16,6 @@ note:
  $ chmod u+x ~/catkin_ws/src/turtlesim_cleaner/src/node.py 
 
 
-![](https://raw.githubusercontent.com/zackq88/turtlesim_/main/video%20results/cleaning-app.gif)
+![](https://raw.githubusercontent.com/zackq88/turtlesim_/main/video%20results/cleaning.gif)
 
 
