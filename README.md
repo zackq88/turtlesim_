@@ -15,9 +15,6 @@ node4:cleaning.py
 note:
  $ chmod u+x ~/catkin_ws/src/turtlesim_cleaner/src/node.py 
 
-![](https://raw.githubusercontent.com/zackq88/turtlesim_/main/video%20results/forward.gif)
-
-![](https://raw.githubusercontent.com/zackq88/turtlesim_goforward/main/abrq2.PNG)
 
 ![](https://raw.githubusercontent.com/zackq88/turtlesim_/main/video%20results/cleaning-app.gif)
 
